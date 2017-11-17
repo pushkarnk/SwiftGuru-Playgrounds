@@ -26,8 +26,8 @@ An expression can take two possible forms:
 Do you know why we call it an `indirect enum`?
 */
 indirect enum Expression {
-    case constant(Int)
-    case expression(Operator, Expression, Expression)
+    case constant(//YOUR CODE GOES HERE)
+    case expression(//YOUR CODE GOES HERE)
 }
 
 /*:
