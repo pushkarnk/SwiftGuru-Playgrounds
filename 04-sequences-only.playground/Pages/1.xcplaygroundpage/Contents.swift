@@ -3,7 +3,6 @@
  A sequence is a list of values that you can step through, one at a time, the most common way being a _for-in_ loop. Sequences also offer a large variety of operations, including a few that are functional in nature.
 
 */
-import PlaygroundSupport
 import Foundation
 import XCTest
 /*:
