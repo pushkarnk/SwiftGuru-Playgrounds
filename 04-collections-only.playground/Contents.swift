@@ -17,6 +17,9 @@
  
  Consider this simple Matrix abstraction:
  */
+import Foundation
+import XCTest
+
 struct Matrix {
     var elements: [Int]
     var rows: Int
